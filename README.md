@@ -14,6 +14,9 @@
 [Download](Resources/kin_rel.pdf)
 * Simple Relativistic Kinematics exercises
 [Download](Resources/Exer1_Kinema.pdf)
+* Relativistic Kinematics Relkin chapter with exercises
+[Download](Resources/relkin.pdf)
+
 
 --------------
 
