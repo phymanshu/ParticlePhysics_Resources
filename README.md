@@ -14,3 +14,10 @@
 [Download](Resources/kin_rel.pdf)
 * Simple Relativistic Kinematics exercises
 [Download](Resources/Exer1_Kinema.pdf)
+
+--------------
+
+Links of Interest:
+* Physics competitions [Link](https://artofproblemsolving.com/wiki/index.php/Physics_competitions)
+* Physics competitions [Wiki](https://en.wikipedia.org/wiki/Category:Physics_competitions) 
+* Mathematics competitions [Wiki](https://en.wikipedia.org/wiki/List_of_mathematics_competitions)
