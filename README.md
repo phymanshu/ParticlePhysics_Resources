@@ -19,6 +19,11 @@
 
 
 --------------
+Links to more problem sets:
+* Jaan Kalda Olympiad problem set: https://www.ioc.ee/~kalda/ipho/ and solutions https://physoly.tech/kalda/
+
+
+--------------
 
 Links of Interest:
 * Physics competitions [Link](https://artofproblemsolving.com/wiki/index.php/Physics_competitions)
