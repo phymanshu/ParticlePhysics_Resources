@@ -17,6 +17,7 @@
 * Relativistic Kinematics Relkin chapter with exercises
 [Download](Resources/relkin.pdf)
 
+* Lecture notes: [HIC](https://indico.cern.ch/event/388766/contributions/2864008/attachments/1619738/)
 
 --------------
 Links to more problem sets:
